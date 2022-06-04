@@ -292,7 +292,7 @@ the [GitHub Wiki](https://github.com/Dreamacro/clash/wiki/use-clash-as-a-library
 * [yaling888/clash-plus-pro](https://github.com/yaling888/clash)
 
 ## License
-
+test
 This software is released under the GPL-3.0 license.
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FDreamacro%2Fclash.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FDreamacro%2Fclash?ref=badge_large)
